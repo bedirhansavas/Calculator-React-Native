@@ -4,8 +4,10 @@ This project is a simple calculator which calculate numbers. There are two input
 Project is created by using React Native technologies. Hence project includes also Javascript, Css, Html codes.
 You can also see some screenshots from application below.
 
+![Screenshot_1566312671 (1)](https://user-images.githubusercontent.com/49618009/113850203-e0fb6500-97a2-11eb-88de-8ea4bc978d14.png)
 
-![Screenshot_1566312671](https://user-images.githubusercontent.com/49618009/112121489-5d514e00-8bd0-11eb-9b28-3b22490a4e1d.png)
+
+![Screenshot_1566312687 (1)](https://user-images.githubusercontent.com/49618009/113850216-e6f14600-97a2-11eb-9dc8-4152a7ef468a.png)
 
 
-![Screenshot_1566312687](https://user-images.githubusercontent.com/49618009/112121522-6510f280-8bd0-11eb-811c-931db0c48a72.png)
+
